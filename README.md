@@ -1,3 +1,3 @@
 # java-prog-project
 
-This is the abstract that parkingDetails class would implement.
+This is the abstract Vehicle that parkingDetails class would implement.
